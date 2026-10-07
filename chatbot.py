@@ -56,7 +56,7 @@ def main():
 
     print()
     print("╭──────────────────────────────────────╮")
-    print("│              GenCLI                  │")
+    print("│              TerminalAI              │")
     print("│       Command-Line AI Chatbot        │")
     print("╰──────────────────────────────────────╯")
     print()
